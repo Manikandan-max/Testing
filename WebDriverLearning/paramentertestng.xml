@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Parameter">
+    <test verbose="2" preserve-order="true" name="Parameter Positive Case" thread-count="1">
+        <parameter name="browser" value="Chrome"></parameter>
+        <parameter name="userName" value="King"></parameter>
+        <parameter name="password" value="Legend0"></parameter>
+        <classes>
+            <class name="org.example.TESTNG.ParameterTestClass"/>
+
+        </classes>
+    </test>
+
+</suite>

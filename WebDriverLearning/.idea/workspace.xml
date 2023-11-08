@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="491a6330-f5da-4947-9209-f6b8c7b781dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Projects/AddDeleteStInPortfolio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Projects/AddDeleteStockInPortfolio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Projects/AddDeleteStockInPortfolio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/ActionKeyNMouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/AjaxHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/HandleDragNDrop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/ManageJavascriptExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/UploadFileClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/WebTableClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/ExcelCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/ReadExcelFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/ReadJsonData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/ReadYMLData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/WriteJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frames/BrowserHandleClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frames/ExtractSpecficWebElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frames/HandleIFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frames/VerifyWebElementVisibility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Listeners/DemoListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Listeners/ListenerTestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Projects/AddDeleteStockInPortfolio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Projects/CreatePortfolioTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Projects/DeletePortfolioTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Projects/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/DataProviderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/FaceBookLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/FaceBookProfileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/ParameterTestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/PriorityTestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/SampleAnnotationUsage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/SampleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/BrokenLinkFinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/GetLinkStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/ImplicitWaitClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/PageLoadTimeOutClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/SleepWaitClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/WebdriverLocators/Rediff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/Listeners/DemoListenerTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/out" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Wjdd5UOPFZ98qbUweB0RP4yyJ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;TestNG&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG&quot;: &quot;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Testing/WebDriverLearning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.Listeners" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Rediff.rediffTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.project.Main" />
+      <module name="DataDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddDeleteStockInPortfolio (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Projects" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Projects.AddDeleteStockInPortfolio" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddDeleteStockInPortfolio (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Projects" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Projects.AddDeleteStockInPortfolio" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddDeleteStockInPortfolio.addStockTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Projects" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Projects.AddDeleteStockInPortfolio" />
+      <option name="METHOD_NAME" value="addStockTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rediff.rediffTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.WebdriverLocators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.WebdriverLocators" />
+      <option name="MAIN_CLASS_NAME" value="org.example.WebdriverLocators.Rediff" />
+      <option name="METHOD_NAME" value="rediffTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run as TestNG" type="TestNG">
+      <module name="WebDriverLearning" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="E:\Testing\WebDriverLearning\out" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example" type="TestNG" nameIsGenerated="true">
+      <module name="WebDriverLearning" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="E:\Testing\WebDriverLearning\out" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="TestNG.org.example" />
+      <item itemvalue="TestNG.Run as TestNG" />
+      <item itemvalue="TestNG.Rediff.rediffTest" />
+      <item itemvalue="TestNG.AddDeleteStockInPortfolio (3)" />
+      <item itemvalue="TestNG.AddDeleteStockInPortfolio (1)" />
+      <item itemvalue="TestNG.AddDeleteStockInPortfolio.addStockTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Rediff.rediffTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.AddDeleteStockInPortfolio (1)" />
+        <item itemvalue="TestNG.AddDeleteStockInPortfolio (3)" />
+        <item itemvalue="TestNG.AddDeleteStockInPortfolio.addStockTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="491a6330-f5da-4947-9209-f6b8c7b781dc" name="Changes" comment="" />
+      <created>1697250009621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697250009621</updated>
+      <workItem from="1697250010670" duration="2947000" />
+      <workItem from="1697256300732" duration="5451000" />
+      <workItem from="1697281551644" duration="2211000" />
+      <workItem from="1697334867305" duration="449000" />
+      <workItem from="1697335335177" duration="6381000" />
+      <workItem from="1697418653551" duration="3805000" />
+      <workItem from="1697422489649" duration="1189000" />
+      <workItem from="1697428810114" duration="17000" />
+      <workItem from="1697602060384" duration="3387000" />
+      <workItem from="1697860065082" duration="7001000" />
+      <workItem from="1697938514242" duration="4516000" />
+      <workItem from="1697951504206" duration="1785000" />
+      <workItem from="1698056353470" duration="4560000" />
+      <workItem from="1698064349337" duration="3289000" />
+      <workItem from="1698108707060" duration="7635000" />
+      <workItem from="1698119338716" duration="96000" />
+      <workItem from="1698153652963" duration="5155000" />
+      <workItem from="1698194545051" duration="124000" />
+      <workItem from="1698397978589" duration="635000" />
+      <workItem from="1698551448284" duration="75000" />
+      <workItem from="1698631281104" duration="774000" />
+      <workItem from="1698843579116" duration="811000" />
+      <workItem from="1698888528819" duration="77000" />
+      <workItem from="1698889640956" duration="417000" />
+      <workItem from="1699243363415" duration="1145000" />
+      <workItem from="1699250945380" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

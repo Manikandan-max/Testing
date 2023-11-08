@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Login Functionality with Cucumber POM">
+    <test name="Login with Positive">
+        <parameter name="language" value="English"></parameter>
+        <classes>
+            <class name="org.project.Project.testcase.LoginTestRunner"></class>
+        </classes>
+    </test>
+</suite>

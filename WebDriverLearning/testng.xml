@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Facebook Login">
+    <test verbose="2" preserve-order="true" name="Facebook Login Positive Case" thread-count="1">
+        <classes>
+            <class name="org.example.TESTNG.FaceBookLogin"/>
+
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="Facebook Profile Positive Case" thread-count="1">
+        <classes>
+            <class name="org.example.TESTNG.FaceBookProfileTest"/>
+
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="Facebook Package Positive Case" thread-count="1">
+        <parameter name="browser" value="Chrome"></parameter>
+        <parameter name="userName" value="King"></parameter>
+        <parameter name="password" value="Legend0"></parameter>
+       <packages>
+           <package name="org.example.TESTNG"></package>
+       </packages>
+    </test>
+</suite>

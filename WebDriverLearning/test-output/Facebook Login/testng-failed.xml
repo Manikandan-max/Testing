@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Facebook Login]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Facebook Profile Positive Case(failed)">
+    <classes>
+      <class name="org.example.TESTNG.FaceBookProfileTest">
+        <methods>
+          <include name="checkProfileLink1"/>
+        </methods>
+      </class> <!-- org.example.TESTNG.FaceBookProfileTest -->
+    </classes>
+  </test> <!-- Facebook Profile Positive Case(failed) -->
+  <test thread-count="5" name="Facebook Package Positive Case(failed)">
+    <parameter name="password" value="Legend0"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="userName" value="King"/>
+    <classes>
+      <class name="org.example.TESTNG.FaceBookProfileTest">
+        <methods>
+          <include name="checkProfileLink1"/>
+        </methods>
+      </class> <!-- org.example.TESTNG.FaceBookProfileTest -->
+    </classes>
+  </test> <!-- Facebook Package Positive Case(failed) -->
+</suite> <!-- Failed suite [Facebook Login] -->

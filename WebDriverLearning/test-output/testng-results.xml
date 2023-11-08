@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="26" passed="20" failed="1" skipped="3">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-16T08:04:12 IST" name="Facebook Login" finished-at="2023-10-16T08:04:12 IST" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T08:04:12 IST" name="Facebook Login Positive Case" finished-at="2023-10-16T08:04:12 IST" duration-ms="2">
+      <class name="org.example.TESTNG.FaceBookLogin">
+        <test-method signature="loginWithInValidCred()[pri:0, instance:org.example.TESTNG.FaceBookLogin@1ebd319f]" started-at="2023-10-16T08:04:12 IST" name="loginWithInValidCred" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInValidCred -->
+        <test-method signature="loginWithValidCred()[pri:0, instance:org.example.TESTNG.FaceBookLogin@1ebd319f]" started-at="2023-10-16T08:04:12 IST" name="loginWithValidCred" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCred -->
+      </class> <!-- org.example.TESTNG.FaceBookLogin -->
+    </test> <!-- Facebook Login Positive Case -->
+    <test started-at="2023-10-16T08:04:12 IST" name="Facebook Profile Positive Case" finished-at="2023-10-16T08:04:12 IST" duration-ms="4">
+      <class name="org.example.TESTNG.FaceBookProfileTest">
+        <test-method signature="checkProfileLink()[pri:0, instance:org.example.TESTNG.FaceBookProfileTest@68267da0]" started-at="2023-10-16T08:04:12 IST" name="checkProfileLink" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProfileLink -->
+        <test-method signature="checkProfileLink1()[pri:0, instance:org.example.TESTNG.FaceBookProfileTest@68267da0]" started-at="2023-10-16T08:04:12 IST" name="checkProfileLink1" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the Message ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the Message 
+at org.example.TESTNG.FaceBookProfileTest.checkProfileLink1(FaceBookProfileTest.java:18)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1207)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProfileLink1 -->
+      </class> <!-- org.example.TESTNG.FaceBookProfileTest -->
+    </test> <!-- Facebook Profile Positive Case -->
+    <test started-at="2023-10-16T08:04:12 IST" name="Facebook Package Positive Case" finished-at="2023-10-16T08:04:12 IST" duration-ms="14">
+      <class name="org.example.TESTNG.DataProviderTest">
+        <test-method signature="calculate(int,int)[pri:0, instance:org.example.TESTNG.DataProviderTest@5552768b]" started-at="2023-10-16T08:04:12 IST" name="calculate" data-provider="set1" finished-at="2023-10-16T08:04:12 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculate -->
+        <test-method signature="calculate(int,int)[pri:0, instance:org.example.TESTNG.DataProviderTest@5552768b]" started-at="2023-10-16T08:04:12 IST" name="calculate" data-provider="set1" finished-at="2023-10-16T08:04:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculate -->
+        <test-method signature="calculate(int,int)[pri:0, instance:org.example.TESTNG.DataProviderTest@5552768b]" started-at="2023-10-16T08:04:12 IST" name="calculate" data-provider="set1" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculate -->
+      </class> <!-- org.example.TESTNG.DataProviderTest -->
+      <class name="org.example.TESTNG.ParameterTestClass">
+        <test-method signature="browserDetails(java.lang.String)[pri:0, instance:org.example.TESTNG.ParameterTestClass@55f616cf]" started-at="2023-10-16T08:04:12 IST" name="browserDetails" description="Example for Parameter Testing" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserDetails -->
+        <test-method signature="userDetails(java.lang.String,java.lang.String)[pri:0, instance:org.example.TESTNG.ParameterTestClass@55f616cf]" started-at="2023-10-16T08:04:12 IST" name="userDetails" description="Example for Parameter Testing" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[King]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Legend0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userDetails -->
+      </class> <!-- org.example.TESTNG.ParameterTestClass -->
+      <class name="org.example.TESTNG.FaceBookLogin">
+        <test-method signature="loginWithInValidCred()[pri:0, instance:org.example.TESTNG.FaceBookLogin@3c947bc5]" started-at="2023-10-16T08:04:12 IST" name="loginWithInValidCred" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInValidCred -->
+        <test-method signature="loginWithValidCred()[pri:0, instance:org.example.TESTNG.FaceBookLogin@3c947bc5]" started-at="2023-10-16T08:04:12 IST" name="loginWithValidCred" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCred -->
+      </class> <!-- org.example.TESTNG.FaceBookLogin -->
+      <class name="org.example.TESTNG.SampleTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:org.example.TESTNG.SampleTest@2beee7ff]" started-at="2023-10-16T08:04:12 IST" name="beforeTest" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:org.example.TESTNG.SampleTest@2beee7ff]" started-at="2023-10-16T08:04:12 IST" name="afterTest" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.example.TESTNG.SampleTest -->
+      <class name="org.example.TESTNG.PriorityTestCase">
+        <test-method signature="testMethod4()[pri:0, instance:org.example.TESTNG.PriorityTestCase@c03cf28]" started-at="2023-10-16T08:04:12 IST" name="testMethod4" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method signature="testMethod2()[pri:1, instance:org.example.TESTNG.PriorityTestCase@c03cf28]" started-at="2023-10-16T08:04:12 IST" name="testMethod2" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method signature="testMethod3()[pri:2, instance:org.example.TESTNG.PriorityTestCase@c03cf28]" started-at="2023-10-16T08:04:12 IST" name="testMethod3" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method signature="testMethod1()[pri:3, instance:org.example.TESTNG.PriorityTestCase@c03cf28]" started-at="2023-10-16T08:04:12 IST" name="testMethod1" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+      </class> <!-- org.example.TESTNG.PriorityTestCase -->
+      <class name="org.example.TESTNG.FaceBookProfileTest">
+        <test-method signature="checkProfileLink()[pri:0, instance:org.example.TESTNG.FaceBookProfileTest@609db43b]" started-at="2023-10-16T08:04:12 IST" name="checkProfileLink" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProfileLink -->
+        <test-method signature="checkProfileLink1()[pri:0, instance:org.example.TESTNG.FaceBookProfileTest@609db43b]" started-at="2023-10-16T08:04:12 IST" name="checkProfileLink1" finished-at="2023-10-16T08:04:12 IST" duration-ms="1" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the Message ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the Message 
+at org.example.TESTNG.FaceBookProfileTest.checkProfileLink1(FaceBookProfileTest.java:18)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1207)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProfileLink1 -->
+      </class> <!-- org.example.TESTNG.FaceBookProfileTest -->
+      <class name="org.example.TESTNG.SampleAnnotationUsage">
+        <test-method is-config="true" signature="sampleMethod2()[pri:0, instance:org.example.TESTNG.SampleAnnotationUsage@306cf3ea]" started-at="2023-10-16T08:04:12 IST" name="sampleMethod2" finished-at="2023-10-16T08:04:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleMethod2 -->
+        <test-method is-config="true" signature="sampleMethod1()[pri:0, instance:org.example.TESTNG.SampleAnnotationUsage@306cf3ea]" started-at="2023-10-16T08:04:12 IST" name="sampleMethod1" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleMethod1 -->
+        <test-method is-config="true" signature="sampleMethod4()[pri:0, instance:org.example.TESTNG.SampleAnnotationUsage@306cf3ea]" started-at="2023-10-16T08:04:12 IST" name="sampleMethod4" finished-at="2023-10-16T08:04:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleMethod4 -->
+      </class> <!-- org.example.TESTNG.SampleAnnotationUsage -->
+    </test> <!-- Facebook Package Positive Case -->
+  </suite> <!-- Facebook Login -->
+  <suite started-at="2023-10-16T08:04:12 IST" name="Listerner Suite" finished-at="2023-10-16T08:04:12 IST" duration-ms="9">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T08:04:12 IST" name="Listener TestCase" finished-at="2023-10-16T08:04:12 IST" duration-ms="9">
+      <class name="org.example.Listeners.ListenerTestCase">
+        <test-method signature="testGetDate(java.lang.String)[pri:0, instance:org.example.Listeners.ListenerTestCase@355ce81c]" started-at="2023-10-16T08:04:12 IST" name="testGetDate" data-provider="dataProvider" finished-at="2023-10-16T08:04:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetDate -->
+        <test-method signature="testFour()[pri:0, instance:org.example.Listeners.ListenerTestCase@355ce81c]" started-at="2023-10-16T08:04:12 IST" name="testFour" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException
+at org.example.Listeners.ListenerTestCase.testFour(ListenerTestCase.java:32)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1207)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method signature="testGetDate(java.lang.String)[pri:0, instance:org.example.Listeners.ListenerTestCase@355ce81c]" started-at="2023-10-16T08:04:12 IST" name="testGetDate" data-provider="dataProvider" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetDate -->
+        <test-method signature="testOne()[pri:0, instance:org.example.Listeners.ListenerTestCase@355ce81c]" started-at="2023-10-16T08:04:12 IST" name="testOne" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testThree()[pri:0, instance:org.example.Listeners.ListenerTestCase@355ce81c]" started-at="2023-10-16T08:04:12 IST" name="testThree" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [7] but found [5]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [7] but found [5]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:907)
+at org.testng.Assert.assertEquals(Assert.java:917)
+at org.example.Listeners.ListenerTestCase.testThree(ListenerTestCase.java:26)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1207)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+      </class> <!-- org.example.Listeners.ListenerTestCase -->
+    </test> <!-- Listener TestCase -->
+  </suite> <!-- Listerner Suite -->
+  <suite started-at="2023-10-16T08:04:12 IST" name="Multiple Suite Files" finished-at="2023-10-16T08:04:12 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Multiple Suite Files -->
+  <suite started-at="2023-10-16T08:04:12 IST" name="Test Parameter" finished-at="2023-10-16T08:04:12 IST" duration-ms="48">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T08:04:12 IST" name="Parameter Positive Case" finished-at="2023-10-16T08:04:12 IST" duration-ms="48">
+      <class name="org.example.TESTNG.ParameterTestClass">
+        <test-method signature="browserDetails(java.lang.String)[pri:0, instance:org.example.TESTNG.ParameterTestClass@49438269]" started-at="2023-10-16T08:04:12 IST" name="browserDetails" description="Example for Parameter Testing" finished-at="2023-10-16T08:04:12 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserDetails -->
+        <test-method signature="userDetails(java.lang.String,java.lang.String)[pri:0, instance:org.example.TESTNG.ParameterTestClass@49438269]" started-at="2023-10-16T08:04:12 IST" name="userDetails" description="Example for Parameter Testing" finished-at="2023-10-16T08:04:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[King]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Legend0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userDetails -->
+      </class> <!-- org.example.TESTNG.ParameterTestClass -->
+    </test> <!-- Parameter Positive Case -->
+  </suite> <!-- Test Parameter -->
+</testng-results>

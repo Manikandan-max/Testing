@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DataDrivenFramework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Marathon_Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/POMFramework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/POMwithCucumber" vcs="Git" />
+  </component>
+</project>
