@@ -245,6 +245,7 @@ public class BaseUI {
     public void reportPass(String reportString) {
         logger.log(Status.PASS, reportString);
     }
+    /***************** Capture the Screenshot ************************/
 
     public void takeScreenShotOnFailure() {
         TakesScreenshot takeScreenShot = (TakesScreenshot) driver;

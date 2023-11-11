@@ -5,16 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d919d94e-1d17-4d44-a600-61783c76e3cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/Marathon/base/ProjectSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/Marathon/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/Marathon/utils/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/project-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/Marathon/pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/Marathon/testcase/JustTicketsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/BaseTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/TopMenuClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LogOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/TC101_PortfolioTestwithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/ReadExcelDataFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/TestDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/src/main/java/org/project/base/BaseUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/src/main/java/org/project/base/BaseUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/Marathon/base/ProjectSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/project/Marathon/base/ProjectSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/base/PageBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/PageBaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MoneyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MoneyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MyPortfolioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MyPortfolioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/PortfolioLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/PortfolioLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/RediffMailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/RediffMailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/base/PageBaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/base/PageBaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MoneyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MoneyPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MyPortfolioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MyPortfolioPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/PortfolioLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/PortfolioLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/RediffMailPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/RediffMailPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadJsonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadJsonData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +57,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2XeLsIA5d7dr8aMrd9cfRbvUezE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,19 +69,44 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="JustTicketsTest.doTicketBookingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Marathon_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.project.Marathon.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.project.Marathon.testcase" />
+      <option name="MAIN_CLASS_NAME" value="org.project.Marathon.testcase.JustTicketsTest" />
+      <option name="METHOD_NAME" value="doTicketBookingTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JustTicketsTest.doTicketBookingTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698984805506</updated>
       <workItem from="1698984806685" duration="4316000" />
+      <workItem from="1699507657177" duration="2365000" />
     </task>
     <servers />
   </component>

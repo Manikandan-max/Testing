@@ -1,28 +1,39 @@
 package pages;
 
 import base.PageBaseClass;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LandingPage extends PageBaseClass {
-    public LandingPage(WebDriver driver) {
-        this.driver=driver;
+
+    public LandingPage(WebDriver driver,ExtentTest logger)
+    {
+
+        super(driver,logger);
     }
 
 
     public LoginPage clickSignin() {
 
-        return PageFactory.initElements(driver, LoginPage.class);
+        LoginPage loginPage=new LoginPage(driver,logger);
+        PageFactory.initElements(driver, loginPage);
+        return loginPage;
     }
 
     @FindBy(linkText = "Money")
     public WebElement moneylink;
 
     public MoneyPage clickMoneyLink() {
+        logger.log(Status.INFO,"Clicking the Money Link in Header");
         moneylink.click();
-        return PageFactory.initElements(driver, MoneyPage.class);
+        logger.log(Status.PASS,"Clicked the Money Link");
+        MoneyPage moneyPage=new MoneyPage(driver,logger);
+        PageFactory.initElements(driver, moneyPage);
+        return moneyPage;
     }
 
 }

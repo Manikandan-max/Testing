@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="948db04f-fc28-4b16-ac31-5ba2d8b719ce" name="Changes" comment="" />
+    <list default="true" id="948db04f-fc28-4b16-ac31-5ba2d8b719ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/testcase/JustTicketsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/BaseTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/TopMenuClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LogOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/TC101_PortfolioTestwithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/ReadExcelDataFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/TestDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/base/BaseUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/project/base/BaseUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/base/ProjectSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/base/ProjectSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/base/PageBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/PageBaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MoneyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MoneyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MyPortfolioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MyPortfolioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/PortfolioLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/PortfolioLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/RediffMailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/RediffMailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/base/PageBaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/base/PageBaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MoneyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MoneyPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MyPortfolioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MyPortfolioPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/PortfolioLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/PortfolioLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/RediffMailPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/RediffMailPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadJsonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadJsonData.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +57,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2XYpP6bVJ8qLjFQLsBBUtbayk7Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -237,6 +276,9 @@
       <workItem from="1699264483512" duration="3615000" />
       <workItem from="1699330689759" duration="52000" />
       <workItem from="1699333738974" duration="2017000" />
+      <workItem from="1699412392663" duration="124000" />
+      <workItem from="1699497116210" duration="2941000" />
+      <workItem from="1699678151894" duration="41000" />
     </task>
     <servers />
   </component>

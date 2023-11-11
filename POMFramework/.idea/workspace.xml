@@ -5,21 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a423310-362b-43c5-9cfe-4040191419ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/PageBaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MoneyPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MyPortfolioPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PortfolioLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/RediffMailPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testcases/LoginTestFunctionality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testcases/MyPortfolioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/testcase/JustTicketsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/TopMenuClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LogOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testcases/TC101_PortfolioTestwithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConstantUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ReadExcelDataFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/TestDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/src/main/java/org/project/base/BaseUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/src/main/java/org/project/base/BaseUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/base/ProjectSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/base/ProjectSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/PageBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/PageBaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MoneyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MoneyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MyPortfolioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MyPortfolioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PortfolioLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PortfolioLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/RediffMailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/RediffMailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testcases/MyPortfolioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcases/MyPortfolioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/PageBaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/PageBaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/MoneyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/MoneyPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/MyPortfolioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/MyPortfolioPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/PortfolioLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/PortfolioLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/RediffMailPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/RediffMailPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testcases/MyPortfolioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testcases/MyPortfolioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadJsonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadJsonData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +58,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2Xpf37x8Xx3o49c1ZdRmEPfOV3O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,20 +88,15 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pages" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Testing\POMFramework\TestData" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.MyPortfolioTest.openPortfolio">
-    <configuration name="LoginTestFunctionality.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.E:/Testing/POMFramework/testng.xml">
+    <configuration name="E:/Testing/POMFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POMFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.LoginTestFunctionality" />
-      <option name="METHOD_NAME" value="loginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -86,6 +105,36 @@
     </configuration>
     <configuration name="MyPortfolioTest.openPortfolio" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POMFramework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.MyPortfolioTest" />
+      <option name="METHOD_NAME" value="openPortfolio" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="test-output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC101_PortfolioTestwithDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMFramework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testcases.*" />
@@ -93,8 +142,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.MyPortfolioTest" />
-      <option name="METHOD_NAME" value="openPortfolio" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TC101_PortfolioTestwithDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC101_PortfolioTestwithDataProvider.createPortfolioTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TC101_PortfolioTestwithDataProvider" />
+      <option name="METHOD_NAME" value="createPortfolioTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC101_PortfolioTestwithDataProvider.doPortfolioTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TC101_PortfolioTestwithDataProvider" />
+      <option name="METHOD_NAME" value="doPortfolioTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -104,8 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.E:/Testing/POMFramework/testng.xml" />
+        <item itemvalue="TestNG.TC101_PortfolioTestwithDataProvider.createPortfolioTest" />
+        <item itemvalue="TestNG.TC101_PortfolioTestwithDataProvider" />
+        <item itemvalue="TestNG.TC101_PortfolioTestwithDataProvider.doPortfolioTest" />
         <item itemvalue="TestNG.MyPortfolioTest.openPortfolio" />
-        <item itemvalue="TestNG.LoginTestFunctionality.loginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -119,22 +206,15 @@
       <updated>1699330741598</updated>
       <workItem from="1699330742746" duration="7027000" />
       <workItem from="1699408351976" duration="35000" />
+      <workItem from="1699410354216" duration="3870000" />
+      <workItem from="1699456334152" duration="7000" />
+      <workItem from="1699495806937" duration="11337000" />
+      <workItem from="1699677876263" duration="6775000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/base/PageBaseClass.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

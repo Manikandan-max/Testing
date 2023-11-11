@@ -12,6 +12,7 @@ import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.safari.SafariDriver;
+import org.project.Marathon.pages.LandingPage;
 import org.project.Marathon.utils.DateUtils;
 import org.project.Marathon.utils.ExtentReportManager;
 import org.testng.Assert;
@@ -97,6 +98,25 @@ public class ProjectSetup {
         } catch (Exception e) {
             reportFail(e.getMessage());
         }
+    }
+    public LandingPage openApplication() {
+        logger.log(Status.INFO, "Opening the Application");
+        driver.get("https://www.justickets.in/");
+        logger.log(Status.PASS, "Successfully Opened the URL");
+        return new LandingPage(driver);
+    }
+
+    /******************** Verify Title  ******************************/
+    public void verifyTitle(String expectedTitle){
+        try {
+            String actualTitle=driver.getTitle();
+            reportPass("Actual title : "+actualTitle+"  equals to expectedTitle: "+expectedTitle);
+        }catch (Exception e){
+            reportFail(e.getMessage());
+            Assert.fail("Failed to Perform");
+        }
+
+
     }
 
     /************* Getting the Element  *********************/

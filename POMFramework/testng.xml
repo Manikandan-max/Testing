@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="Portfolio Creation Test">
+        <groups>
+            <run><include name="AddPortfolio"/></run>
+        </groups>
+        <classes>
+            <class name="testcases.TC101_PortfolioTestwithDataProvider"></class>
+        </classes>
+    </test>
+</suite>

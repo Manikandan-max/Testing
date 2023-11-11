@@ -5,49 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="491a6330-f5da-4947-9209-f6b8c7b781dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Projects/AddDeleteStInPortfolio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Projects/AddDeleteStockInPortfolio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Projects/AddDeleteStockInPortfolio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/ActionKeyNMouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/AjaxHandle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/HandleDragNDrop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/ManageJavascriptExecutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/UploadFileClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Advanced/WebTableClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/ExcelCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/ReadExcelFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/ReadJsonData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/ReadYMLData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Files/WriteJson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frames/BrowserHandleClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frames/ExtractSpecficWebElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frames/HandleIFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frames/VerifyWebElementVisibility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Listeners/DemoListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Listeners/ListenerTestCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Projects/AddDeleteStockInPortfolio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Projects/CreatePortfolioTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Projects/DeletePortfolioTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Projects/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/DataProviderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/FaceBookLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/FaceBookProfileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/ParameterTestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/PriorityTestCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/SampleAnnotationUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TESTNG/SampleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/BrokenLinkFinding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/GetLinkStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/ImplicitWaitClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/PageLoadTimeOutClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Waits/SleepWaitClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/WebdriverLocators/Rediff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/Listeners/DemoListenerTest.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/BaseTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/TopMenuClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LogOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/ExtentReportManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/base/PageBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/PageBaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MoneyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MoneyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MyPortfolioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MyPortfolioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/PortfolioLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/PortfolioLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/base/PageBaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/base/PageBaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MoneyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MoneyPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MyPortfolioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MyPortfolioPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/PortfolioLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/PortfolioLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Files/ReadJsonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Files/ReadJsonData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,6 +272,8 @@
       <workItem from="1698889640956" duration="417000" />
       <workItem from="1699243363415" duration="1145000" />
       <workItem from="1699250945380" duration="8000" />
+      <workItem from="1699456343329" duration="661000" />
+      <workItem from="1699495798714" duration="6000" />
     </task>
     <servers />
   </component>
