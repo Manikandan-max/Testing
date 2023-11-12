@@ -18,9 +18,12 @@ import org.testng.annotations.AfterMethod;
 import pages.LandingPage;
 import utils.ExtentReportManager;
 
+import java.sql.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.Hashtable;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -30,6 +33,8 @@ public class BaseTestClass {
     public WebDriver driver;
     public ExtentReports report = ExtentReportManager.getReportInstance();
     public ExtentTest logger;
+    public String dbname;
+    public String tablename;
 
     /****************** Invoke Browser ***********************/
     public void invokeBrowser(String browserName) {
@@ -61,7 +66,7 @@ public class BaseTestClass {
     @AfterMethod
     public void flushReports() {
         report.flush();
-        driver.close();
+        //driver.close();
     }
 
     /***************** Select Date From Calendar *****************/
@@ -135,5 +140,47 @@ public class BaseTestClass {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
+    }
+    /************** DataBase Connection and Retrieval of Data **********************/
+    public void setDatabaseName(String dbName) {
+        this.dbname = dbName;
+    }
+
+    public void setTableName(String tableName) {
+        this.tablename = tableName;
+    }
+    public List<Hashtable<String, String>> getTableData() {
+        List<Hashtable<String, String>> data = new ArrayList<>();
+
+        try {
+            // Customize the database connection URL, username, and password as needed
+            String jdbcUrl = "jdbc:mysql://localhost:3306/" + dbname;
+            String username = "root";
+            String password = "Admin01@";
+
+            try (Connection connection = DriverManager.getConnection(jdbcUrl, username, password)) {
+                String sql = "SELECT * FROM " + tablename;
+                try (PreparedStatement statement = connection.prepareStatement(sql)) {
+                    ResultSet resultSet = statement.executeQuery();
+
+                    ResultSetMetaData metaData = resultSet.getMetaData();
+                    int columnCount = metaData.getColumnCount();
+
+                    while (resultSet.next()) {
+                        Hashtable<String, String> rowData = new Hashtable<>();
+                        for (int i = 1; i <= columnCount; i++) {
+                            String columnName = metaData.getColumnName(i);
+                            String columnValue = resultSet.getString(i);
+                            rowData.put(columnName, columnValue);
+                        }
+                        data.add(rowData);
+                    }
+                }
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return data;
     }
 }
