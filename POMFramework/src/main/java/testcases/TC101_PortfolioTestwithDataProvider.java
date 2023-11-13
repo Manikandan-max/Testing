@@ -51,6 +51,25 @@ public class TC101_PortfolioTestwithDataProvider extends BaseTestClass {
 
     }
 
+    @Test(dataProvider = "portfolioData",groups = {"Regression","DeletePortfolio"})
+    public void deletePortfolio(Hashtable<String,String>testData){
+        logger= report.createTest(" Delete Portfolio  Test : "+ testData.get("Comments"));
+        invokeBrowser("chrome");
+        PageBaseClass pageBaseClass=new PageBaseClass(driver,logger);
+        PageFactory.initElements(driver,pageBaseClass);
+        landingPage=pageBaseClass.openApplication();
+        moneyPage=landingPage.clickMoneyLink();
+        portfolioLoginPage=moneyPage.clickSigninLink();
+        myPortfolioPage=portfolioLoginPage.doLogin(ConstantUtils.USERONE.getUsername(), ConstantUtils.USERONE.getPassword());
+        waitForPageLoad();
+        myPortfolioPage.verifyMoneyBiz();
+        myPortfolioPage=myPortfolioPage.selectPortfolio(testData.get("PortfolioName"));
+        myPortfolioPage=myPortfolioPage.deletePortfolio();
+        waitForPageLoad();
+        myPortfolioPage.isPortfolioDeleted(testData.get("PortfolioName"));
+
+    }
+
     @Test(dataProvider = "portfolioData",groups = {"Regression","AddPortfolio"})
     public void createPortfolioTest(Hashtable<String,String> testData){
         logger= report.createTest("Rediff Portfolio  Test : "+ testData.get("Comments"));

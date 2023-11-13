@@ -66,7 +66,7 @@ public class BaseTestClass {
     @AfterMethod
     public void flushReports() {
         report.flush();
-        //driver.close();
+        driver.close();
     }
 
     /***************** Select Date From Calendar *****************/
