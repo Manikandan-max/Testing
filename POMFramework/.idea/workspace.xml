@@ -4,46 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a423310-362b-43c5-9cfe-4040191419ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/pages/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/testcase/JustTicketsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseTestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/TopMenuClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LogOutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testcases/TC101_PortfolioTestwithDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConstantUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ReadExcelDataFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/TestDataProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/src/main/java/org/project/base/BaseUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/src/main/java/org/project/base/BaseUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/base/ProjectSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/base/ProjectSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3a423310-362b-43c5-9cfe-4040191419ae" name="Changes" comment="SQL Database has DataProvider added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtendReportLearning/CaptureScreenhot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtendReportLearning/ExtentReportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testcases/MyStockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/RediffTestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/RediffTestData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/BaseTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/BaseTestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/base/PageBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/PageBaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MoneyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MoneyPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/MyPortfolioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MyPortfolioPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PortfolioLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PortfolioLoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/RediffMailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/RediffMailPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcases/MyPortfolioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcases/MyPortfolioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testcases/TC101_PortfolioTestwithDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcases/TC101_PortfolioTestwithDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/BaseTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/BaseTestClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/base/PageBaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/PageBaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LandingPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/MoneyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/MoneyPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/MyPortfolioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/MyPortfolioPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/PortfolioLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/PortfolioLoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/RediffMailPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/RediffMailPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testcases/MyPortfolioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testcases/MyPortfolioTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadJsonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadJsonData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testcases/TC101_PortfolioTestwithDataProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testcases/TC101_PortfolioTestwithDataProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/test-report_11_11_23_10_43_46.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,33 +68,69 @@
       <recent name="E:\Testing\POMFramework\TestData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.E:/Testing/POMFramework/testng.xml">
-    <configuration name="E:/Testing/POMFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ExtentReportTest">
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtendReportLearning.demo" />
       <module name="POMFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendReportLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtentReportTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendReportLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExtendReportLearning" />
+      <option name="MAIN_CLASS_NAME" value="ExtendReportLearning.ExtentReportTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPortfolioTest.openPortfolio" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtentReportTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendReportLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExtendReportLearning" />
+      <option name="MAIN_CLASS_NAME" value="ExtendReportLearning.ExtentReportTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtentReportTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POMFramework" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testcases.*" />
+          <option name="PATTERN" value="ExtendReportLearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.MyPortfolioTest" />
-      <option name="METHOD_NAME" value="openPortfolio" />
+      <option name="PACKAGE_NAME" value="ExtendReportLearning" />
+      <option name="MAIN_CLASS_NAME" value="ExtendReportLearning.ExtentReportTest" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="test-output" />
       <option name="TEST_SEARCH_SCOPE">
@@ -127,58 +139,23 @@
       <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners>
-        <listener class="org.testng.reporters.EmailableReporter2" />
+        <listener class="org.testng.reporters.EmailableReporter" />
       </listeners>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC101_PortfolioTestwithDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtentReportTest.passTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POMFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testcases.*" />
+          <option name="PATTERN" value="ExtendReportLearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.TC101_PortfolioTestwithDataProvider" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC101_PortfolioTestwithDataProvider.createPortfolioTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="POMFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.TC101_PortfolioTestwithDataProvider" />
-      <option name="METHOD_NAME" value="createPortfolioTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC101_PortfolioTestwithDataProvider.doPortfolioTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="POMFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.TC101_PortfolioTestwithDataProvider" />
-      <option name="METHOD_NAME" value="doPortfolioTest" />
+      <option name="PACKAGE_NAME" value="ExtendReportLearning" />
+      <option name="MAIN_CLASS_NAME" value="ExtendReportLearning.ExtentReportTest" />
+      <option name="METHOD_NAME" value="passTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -188,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.E:/Testing/POMFramework/testng.xml" />
-        <item itemvalue="TestNG.TC101_PortfolioTestwithDataProvider.createPortfolioTest" />
-        <item itemvalue="TestNG.TC101_PortfolioTestwithDataProvider" />
-        <item itemvalue="TestNG.TC101_PortfolioTestwithDataProvider.doPortfolioTest" />
-        <item itemvalue="TestNG.MyPortfolioTest.openPortfolio" />
+        <item itemvalue="TestNG.ExtentReportTest" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="TestNG.ExtentReportTest (1)" />
+        <item itemvalue="TestNG.ExtentReportTest (3)" />
+        <item itemvalue="TestNG.ExtentReportTest.passTest" />
       </list>
     </recent_temporary>
   </component>
@@ -209,12 +186,37 @@
       <workItem from="1699410354216" duration="3870000" />
       <workItem from="1699456334152" duration="7000" />
       <workItem from="1699495806937" duration="11337000" />
-      <workItem from="1699677876263" duration="6775000" />
+      <workItem from="1699677876263" duration="7356000" />
+      <workItem from="1699752329697" duration="24000" />
+      <workItem from="1699752708928" duration="4211000" />
+      <workItem from="1699838642464" duration="15443000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated Learning">
+      <option name="closed" value="true" />
+      <created>1699685253693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699685253693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SQL Database has DataProvider added">
+      <option name="closed" value="true" />
+      <created>1699756926648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699756926648</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Learning" />
+    <MESSAGE value="SQL Database has DataProvider added" />
+    <option name="LAST_COMMIT_MESSAGE" value="SQL Database has DataProvider added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
