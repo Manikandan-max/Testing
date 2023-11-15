@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="1">
+    <listeners>
+        <listener class-name="RetryTesting.Transformation"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="Retry TestCase On Failures">
+        <classes>
+            <class name="RetryTesting.SampleTestCase1"></class>
+            <class name="RetryTesting.SampleTestCase2"></class>
+        </classes>
+    </test>
+</suite>
