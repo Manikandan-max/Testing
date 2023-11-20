@@ -2,20 +2,18 @@ package base;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-import com.aventstack.extentreports.Status;
+import com.gurock.testrailManager.TailRailManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
-import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Select;
+import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
-import pages.LandingPage;
+import utils.ConstantUtils;
 import utils.ExtentReportManager;
 
 import java.sql.*;
@@ -35,6 +33,7 @@ public class BaseTestClass {
     public ExtentTest logger;
     public String dbname;
     public String tablename;
+    protected String testCaseId;
 
     /****************** Invoke Browser ***********************/
     public void invokeBrowser(String browserName) {
@@ -61,12 +60,21 @@ public class BaseTestClass {
         driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
         driver.manage().window().maximize();
     }
+    @AfterMethod
+    public void addResultsToTestRail(ITestResult result){
+        if (result.getStatus()==ITestResult.SUCCESS){
+            TailRailManager.addTestResults(testCaseId,TailRailManager.TEST_CASE_PASS_STATUS,"Test Passed: "+result.getName());
 
+        } else if (result.getStatus()==ITestResult.FAILURE) {
+            TailRailManager.addTestResults(testCaseId,TailRailManager.TEST_CASE_FAIL_STATUS,"Test Failed: "+result.getName()+" : FAILED");
+
+        }
+    }
 
     @AfterMethod
     public void flushReports() {
         report.flush();
-        driver.close();
+        //driver.close();
     }
 
     /***************** Select Date From Calendar *****************/
