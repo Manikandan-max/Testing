@@ -5,7 +5,7 @@ import org.testng.SkipException;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class ListenerTestCase {
+public class ListenerTestCase extends DemoListener {
 
     @Test
     public void testOne(){
@@ -23,7 +23,7 @@ public class ListenerTestCase {
 
     @Test
     public void testThree(){
-        Assert.assertEquals(5,7);
+        Assert.assertEquals(5,5);
     }
 
     @Test

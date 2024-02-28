@@ -5,32 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="491a6330-f5da-4947-9209-f6b8c7b781dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/BaseTestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/TopMenuClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LogOutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/utils/ExtentReportManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/practice/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/practice/LoginTestPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/practice/ShadowDom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/ExtendReportLearning/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/ExtendReportLearning/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/com/gurock/testrailManager/TailRailManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/target/classes/org/project/Marathon/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/target/classes/org/project/Marathon/pages/LandingPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/base/PageBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/base/PageBaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LandingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MoneyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MoneyPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MyPortfolioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/MyPortfolioPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/PortfolioLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/pages/PortfolioLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/base/PageBaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/base/PageBaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LandingPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MoneyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MoneyPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MyPortfolioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/MyPortfolioPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/pages/PortfolioLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/pages/PortfolioLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/base/BaseTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/base/BaseTestClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMwithCucumber/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMwithCucumber/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMwithCucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMwithCucumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RahulShettyTestingCourse/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RahulShettyTestingCourse/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RahulShettyTestingCourse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RahulShettyTestingCourse/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Files/ReadJsonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Files/ReadJsonData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WebDriverLearning/org/example/Files/ReadJsonData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WebDriverLearning/org/example/Files/ReadJsonData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WebDriverLearning/org/example/Listeners/ListenerTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WebDriverLearning/org/example/Listeners/ListenerTestCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Advanced/ActionKeyNMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Advanced/ActionKeyNMouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Files/ReadExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Files/ReadExcelFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Listeners/ListenerTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Listeners/ListenerTestCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
       <recent name="org.example.Listeners" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Rediff.rediffTest">
+  <component name="RunManager" selected="TestNG.AjaxHandle">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.project.Main" />
       <module name="DataDrivenFramework" />
@@ -120,16 +121,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddDeleteStockInPortfolio (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AjaxHandle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WebDriverLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Projects.*" />
+          <option name="PATTERN" value="org.example.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.Projects" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Projects.AddDeleteStockInPortfolio" />
+      <option name="PACKAGE_NAME" value="org.example.Advanced" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Advanced.AjaxHandle" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -137,18 +138,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddDeleteStockInPortfolio.addStockTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ListenerTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WebDriverLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Projects.*" />
+          <option name="PATTERN" value="org.example.Listeners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.Projects" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Projects.AddDeleteStockInPortfolio" />
-      <option name="METHOD_NAME" value="addStockTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="org.example.Listeners" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Listeners.ListenerTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -223,18 +223,18 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="TestNG.org.example" />
       <item itemvalue="TestNG.Run as TestNG" />
+      <item itemvalue="TestNG.AjaxHandle" />
+      <item itemvalue="TestNG.ListenerTestCase" />
       <item itemvalue="TestNG.Rediff.rediffTest" />
-      <item itemvalue="TestNG.AddDeleteStockInPortfolio (3)" />
       <item itemvalue="TestNG.AddDeleteStockInPortfolio (1)" />
-      <item itemvalue="TestNG.AddDeleteStockInPortfolio.addStockTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AjaxHandle" />
+        <item itemvalue="TestNG.ListenerTestCase" />
         <item itemvalue="TestNG.Rediff.rediffTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.AddDeleteStockInPortfolio (1)" />
-        <item itemvalue="TestNG.AddDeleteStockInPortfolio (3)" />
-        <item itemvalue="TestNG.AddDeleteStockInPortfolio.addStockTest" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +274,12 @@
       <workItem from="1699250945380" duration="8000" />
       <workItem from="1699456343329" duration="661000" />
       <workItem from="1699495798714" duration="6000" />
+      <workItem from="1699932631334" duration="215000" />
+      <workItem from="1699933082934" duration="472000" />
+      <workItem from="1699942720664" duration="11000" />
+      <workItem from="1703916991177" duration="254000" />
+      <workItem from="1704175666953" duration="202000" />
+      <workItem from="1706502554882" duration="125000" />
     </task>
     <servers />
   </component>

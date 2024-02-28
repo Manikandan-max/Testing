@@ -5,24 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1845df2-8c0a-4597-8465-fcce7051d5bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/AlertHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/AutoSuggestiveDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/BrowserAActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/Dropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/DynamicDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/EndtoEndSpiceJet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/UpdatedDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/DropDownCodes/XpathSibling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/rahulshettytestingcourse/EcommerceCart/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/rahulshettytestingcourse/RahulShettyTestingCourseApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/practice/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/practice/LoginTestPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/practice/ShadowDom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/ExtendReportLearning/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/ExtendReportLearning/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/com/gurock/testrailManager/TailRailManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataDrivenFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/src/main/java/org/project/Marathon/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Marathon_Practice/target/classes/org/project/Marathon/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Marathon_Practice/target/classes/org/project/Marathon/pages/LandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/src/main/java/testcases/MyPortfolioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/base/BaseTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/base/BaseTestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/target/classes/testcases/MyPortfolioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMFramework/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMFramework/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMwithCucumber/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMwithCucumber/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POMwithCucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POMwithCucumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/out/production/WebDriverLearning/org/example/Advanced/ActionKeyNMouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/out/production/WebDriverLearning/org/example/Advanced/ActionKeyNMouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/out/production/WebDriverLearning/org/example/Files/ReadExcelFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/out/production/WebDriverLearning/org/example/Files/ReadExcelFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/out/production/WebDriverLearning/org/example/Files/ReadJsonData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/out/production/WebDriverLearning/org/example/Files/ReadJsonData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/out/production/WebDriverLearning/org/example/Listeners/ListenerTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/out/production/WebDriverLearning/org/example/Listeners/ListenerTestCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Advanced/ActionKeyNMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Advanced/ActionKeyNMouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Files/ReadExcelFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Listeners/ListenerTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDriverLearning/src/main/java/org/example/Listeners/ListenerTestCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -166,6 +175,8 @@
       <workItem from="1696844722917" duration="610000" />
       <workItem from="1696846416827" duration="1020000" />
       <workItem from="1696849218861" duration="496000" />
+      <workItem from="1704177810246" duration="14000" />
+      <workItem from="1706502726501" duration="60000" />
     </task>
     <servers />
   </component>
